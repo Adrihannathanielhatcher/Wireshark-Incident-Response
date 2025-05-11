@@ -40,5 +40,3 @@ Research malicious activity through cybersecurity tools. In today's lab, we will
 
 ![image](https://github.com/user-attachments/assets/d6579564-8dc7-4a27-8630-19b6542e5e17)
 
-
-4. 
